@@ -9,3 +9,6 @@ def s (a,b):
 
 def s3 (a,b):
     return a
+
+def mm (a,b):
+    return a
